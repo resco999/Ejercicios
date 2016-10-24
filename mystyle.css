@@ -1,0 +1,29 @@
+body {
+	background-color: #d0e4fe;
+}
+h1 {
+	color: orange;
+	text-align: center;
+}
+p {
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+/*ul li {
+	display: inline;
+}*/
+ul li:first-child {
+	color: red;
+}
+a:link {
+	color: green;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: yellow;
+}
